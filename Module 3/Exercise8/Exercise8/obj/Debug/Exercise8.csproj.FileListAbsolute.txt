@@ -1,6 +1,0 @@
-/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Module 3/Exercise8/Exercise8/obj/Debug/Exercise8.csproj.AssemblyReference.cache
-/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Module 3/Exercise8/Exercise8/obj/Debug/Exercise8.csproj.CoreCompileInputs.cache
-/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Module 3/Exercise8/Exercise8/bin/Debug/Exercise8.exe
-/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Module 3/Exercise8/Exercise8/bin/Debug/Exercise8.pdb
-/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Module 3/Exercise8/Exercise8/obj/Debug/Exercise8.exe
-/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Module 3/Exercise8/Exercise8/obj/Debug/Exercise8.pdb
