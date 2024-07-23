@@ -1,0 +1,6 @@
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/FloatingPointDataTypes/FloatingPointDataTypes/bin/Debug/FloatingPointDataTypes.exe
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/FloatingPointDataTypes/FloatingPointDataTypes/bin/Debug/FloatingPointDataTypes.pdb
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/FloatingPointDataTypes/FloatingPointDataTypes/obj/Debug/FloatingPointDataTypes.csproj.AssemblyReference.cache
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/FloatingPointDataTypes/FloatingPointDataTypes/obj/Debug/FloatingPointDataTypes.csproj.CoreCompileInputs.cache
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/FloatingPointDataTypes/FloatingPointDataTypes/obj/Debug/FloatingPointDataTypes.exe
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/FloatingPointDataTypes/FloatingPointDataTypes/obj/Debug/FloatingPointDataTypes.pdb

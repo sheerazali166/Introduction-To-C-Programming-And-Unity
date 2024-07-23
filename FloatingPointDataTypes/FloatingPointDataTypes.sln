@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatingPointDataTypes", "FloatingPointDataTypes\FloatingPointDataTypes.csproj", "{C3FF71D2-4D7A-4D7F-83A9-C6E8C9A7FAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3FF71D2-4D7A-4D7F-83A9-C6E8C9A7FAC5}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C3FF71D2-4D7A-4D7F-83A9-C6E8C9A7FAC5}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C3FF71D2-4D7A-4D7F-83A9-C6E8C9A7FAC5}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C3FF71D2-4D7A-4D7F-83A9-C6E8C9A7FAC5}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78AF2481-8B27-4869-B9B6-717E01B82149}
+	EndGlobalSection
+EndGlobal
