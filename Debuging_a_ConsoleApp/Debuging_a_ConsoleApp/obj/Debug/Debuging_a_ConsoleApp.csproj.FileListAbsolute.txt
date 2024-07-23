@@ -1,0 +1,6 @@
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Debuging_a_ConsoleApp/Debuging_a_ConsoleApp/bin/Debug/Debuging_a_ConsoleApp.exe
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Debuging_a_ConsoleApp/Debuging_a_ConsoleApp/bin/Debug/Debuging_a_ConsoleApp.pdb
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Debuging_a_ConsoleApp/Debuging_a_ConsoleApp/obj/Debug/Debuging_a_ConsoleApp.csproj.AssemblyReference.cache
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Debuging_a_ConsoleApp/Debuging_a_ConsoleApp/obj/Debug/Debuging_a_ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Debuging_a_ConsoleApp/Debuging_a_ConsoleApp/obj/Debug/Debuging_a_ConsoleApp.exe
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/Debuging_a_ConsoleApp/Debuging_a_ConsoleApp/obj/Debug/Debuging_a_ConsoleApp.pdb
