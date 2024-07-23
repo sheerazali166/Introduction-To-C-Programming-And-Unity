@@ -1,0 +1,6 @@
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/ReadingDocumentation/ReadingDocumentation/bin/Debug/ReadingDocumentation.exe
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/ReadingDocumentation/ReadingDocumentation/bin/Debug/ReadingDocumentation.pdb
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/ReadingDocumentation/ReadingDocumentation/obj/Debug/ReadingDocumentation.csproj.AssemblyReference.cache
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/ReadingDocumentation/ReadingDocumentation/obj/Debug/ReadingDocumentation.csproj.CoreCompileInputs.cache
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/ReadingDocumentation/ReadingDocumentation/obj/Debug/ReadingDocumentation.exe
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/ReadingDocumentation/ReadingDocumentation/obj/Debug/ReadingDocumentation.pdb
