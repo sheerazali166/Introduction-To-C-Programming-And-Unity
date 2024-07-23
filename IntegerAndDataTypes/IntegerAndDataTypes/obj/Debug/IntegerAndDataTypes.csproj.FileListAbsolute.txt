@@ -1,0 +1,6 @@
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/IntegerAndDataTypes/IntegerAndDataTypes/bin/Debug/IntegerAndDataTypes.exe
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/IntegerAndDataTypes/IntegerAndDataTypes/bin/Debug/IntegerAndDataTypes.pdb
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/IntegerAndDataTypes/IntegerAndDataTypes/obj/Debug/IntegerAndDataTypes.csproj.AssemblyReference.cache
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/IntegerAndDataTypes/IntegerAndDataTypes/obj/Debug/IntegerAndDataTypes.csproj.CoreCompileInputs.cache
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/IntegerAndDataTypes/IntegerAndDataTypes/obj/Debug/IntegerAndDataTypes.exe
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/IntegerAndDataTypes/IntegerAndDataTypes/obj/Debug/IntegerAndDataTypes.pdb

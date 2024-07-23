@@ -1,0 +1,3 @@
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/IntegerAndDataTypes/IntegerAndDataTypes/bin/Release/IntegerAndDataTypes.exe
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/IntegerAndDataTypes/IntegerAndDataTypes/obj/Release/IntegerAndDataTypes.csproj.CoreCompileInputs.cache
+/Users/sheeraz/Desktop/Unity Game Development 2D/Course 1/Week 1/Projects/IntegerAndDataTypes/IntegerAndDataTypes/obj/Release/IntegerAndDataTypes.exe
